@@ -6,7 +6,7 @@
 
 **PROJECT OVERVIEW:**
 
-This project aims to develop a comprehensive dashboard for Toman Bike Share to provide actionable insights into key performance metrics. By leveraging data analysis and visualization techniques, to uncover trends, patterns, and anomalies within the bike-sharing data to support informed decision-making. The dashboard will empower Toman Bike Share to optimize operations, pricing strategies, and customer experiences.
+This project aims to develop a comprehensive dashboard for Toman Bike Share to provide actionable insights into key performance metrics. By leveraging data analysis and visualization techniques, to uncover trends, patterns, and anomalies within the bike-sharing data to support informed decision-making. The dashboard will empower Toman Bike Share Company to optimize operations, pricing strategies, and customer experiences.
 
 **DATA SOURCE AND PREPARATION:**
 
